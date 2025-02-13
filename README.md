@@ -13,6 +13,7 @@ This repository contains static clones of popular websites, created using HTML, 
 
 ## Screenshots
 ![Myntra Clone Screenshot](Myntra-Clone/SS1.png)
+[](Myntra-Clone/SS2.png)
 
 ### Netflix Clone
 ![Netflix Clone Screenshot](Netflix-Clone/SS1.png)
