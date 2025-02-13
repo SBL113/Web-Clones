@@ -12,12 +12,8 @@ This repository contains static clones of popular websites, created using HTML, 
 3. Open `index.html` in your browser.
 
 ## Screenshots
-Myntra-Clone/SS1.png
-Myntra-Clone/SS2.png
-Myntra-Clone/SS3.png
-Myntra-Clone/SS4.png
-Netflix-Clone/SS1.png
-Netflix-Clone/SS2.png
-Netflix-Clone/SS3.png
-Netflix-Clone/SS4.png
-Netflix-Clone/SS5.png
+![Myntra Clone Screenshot](Myntra-Clone/SS1.png)
+
+### Netflix Clone
+![Netflix Clone Screenshot](Netflix-Clone/SS1.png)
+
